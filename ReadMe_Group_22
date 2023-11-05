@@ -1,0 +1,17 @@
+Aniket Kumar Sahil (2022CSB1067)
+Akash (2022CSB1064)
+
+T.A.: Mr. Law Kumar
+
+Summary:-
+Our project aims to recreate a board game known as Scotland Yard,
+a detective game where some detectives try to catch a criminal Mr. X who is
+roaming around the city. We have used the knowledge of graphs and decision tree
+to create a game such that you can play with the computer. In our game, we
+act as detectives and Mr. X is controlled using the decision tree. We have used
+graph to represent the city by using nodes as various stations where Mr. X and
+the detectives can stay and using edges as the path where they can move. We
+create new map every time we play the game using Barabási-Albert Model. The
+detectives are human controlled while Mr. X is Algorithmically controlled using
+the decision tree we created.
+
